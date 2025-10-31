@@ -73,9 +73,18 @@ PORT=4000
 
 
 📸 Screenshots
-PageScreenshotHome PageDoctor ListAppointment BookingAdmin Dashboard
-(If your screenshots are zipped, unzip them into a folder named project-demo before uploading)
 
+### 🏠 Home Page
+![Home Page](project-demo/home.png)
+
+### 🧑‍⚕️ Doctor Listing
+![Doctors](project-demo/doctors.png)
+
+### 📅 Booking Page
+![Booking](project-demo/booking.png)
+
+### 🔐 Admin Dashboard
+![Admin Dashboard](project-demo/admin-dashboard.png)
 ✨ Features
 ✅ User registration & login (JWT authentication)
 ✅ Book, view, and cancel appointments
