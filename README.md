@@ -1,4 +1,4 @@
-# 🏥 Doctor Appointment System
+# 🏥 Prescripto-main
 
 This is a **Full-Stack Doctor Appointment Booking Web Application** that allows users to book appointments with doctors, while doctors and admins can manage schedules, availability, and users.  
 Built using **React.js**, **Node.js**, **Express.js**, and **MongoDB**.
