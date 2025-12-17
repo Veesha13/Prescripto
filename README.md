@@ -79,13 +79,17 @@ PORT=4000
 
 
 ### 🧑‍⚕️ Doctor Listing
-![Doctors](project-demo/doctors.png)
+<img width="729" height="382" alt="image" src="https://github.com/user-attachments/assets/8df342c6-b054-4b6d-aec4-8f7c81bbbf1e" />
+
 
 ### 📅 Booking Page
-![Booking](project-demo/booking.png)
+<img width="701" height="346" alt="image" src="https://github.com/user-attachments/assets/9b2a7849-6308-4ad7-a30b-ef917ba43c38" />
+<img width="755" height="352" alt="image" src="https://github.com/user-attachments/assets/b83a8ddd-be54-4836-8462-e8eeb75ff400" />
+
 
 ### 🔐 Admin Dashboard
-![Admin Dashboard](project-demo/admin-dashboard.png)
+<img width="805" height="391" alt="image" src="https://github.com/user-attachments/assets/8439302e-9323-4b4f-8ac3-d3e944800574" />
+
 ✨ Features
 ✅ User registration & login (JWT authentication)
 ✅ Book, view, and cancel appointments
