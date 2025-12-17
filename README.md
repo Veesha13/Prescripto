@@ -75,7 +75,8 @@ PORT=4000
 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](project-demo/home.png)
+<img width="772" height="412" alt="image" src="https://github.com/user-attachments/assets/8e9536b3-7bfb-4642-a74b-9344d42128b2" />
+
 
 ### 🧑‍⚕️ Doctor Listing
 ![Doctors](project-demo/doctors.png)
